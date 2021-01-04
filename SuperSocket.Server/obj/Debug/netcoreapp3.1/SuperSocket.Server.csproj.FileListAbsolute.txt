@@ -1,0 +1,10 @@
+G:\IDA Plugin\Lumina\SuperSocket.Server\bin\Debug\netcoreapp3.1\SuperSocket.Server.exe
+G:\IDA Plugin\Lumina\SuperSocket.Server\obj\Debug\netcoreapp3.1\SuperSocket.Server.AssemblyInfoInputs.cache
+G:\IDA Plugin\Lumina\SuperSocket.Server\obj\Debug\netcoreapp3.1\SuperSocket.Server.AssemblyInfo.cs
+G:\IDA Plugin\Lumina\SuperSocket.Server\bin\Debug\netcoreapp3.1\log4net.dll
+G:\IDA Plugin\Lumina\SuperSocket.Server\bin\Debug\netcoreapp3.1\SuperSocket.Common.dll
+G:\IDA Plugin\Lumina\SuperSocket.Server\bin\Debug\netcoreapp3.1\SuperSocket.Facility.dll
+G:\IDA Plugin\Lumina\SuperSocket.Server\bin\Debug\netcoreapp3.1\SuperSocket.SocketBase.dll
+G:\IDA Plugin\Lumina\SuperSocket.Server\obj\Debug\netcoreapp3.1\SuperSocket.Server.csprojAssemblyReference.cache
+G:\IDA Plugin\Lumina\SuperSocket.Server\obj\Debug\netcoreapp3.1\SuperSocket.Server.csproj.CopyComplete
+G:\IDA Plugin\Lumina\SuperSocket.Server\bin\Debug\netcoreapp3.1\SuperSocket.ProtoBase.dll
