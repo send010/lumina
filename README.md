@@ -1,8 +1,6 @@
-# lumina
+# IDA Lumina 服务端
 
-IDA Lumina c# 实现的服务端，目前数据在内存中存储，需要对接数据库。
-
-别问，问就是对着抄出来的。
+c# 使用supersocket 实现的服务端，目前数据在内存中存储，需要对接数据库。
 
 基于开源项目：
 https://github.com/synacktiv/lumina_server
